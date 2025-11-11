@@ -44,4 +44,4 @@ The app provides a clean user interface that lets users explore static news arti
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/raj-patel-2316/Rajdoot
+  https://github.com/raj-patel-2316/Rajdoot-New-App
