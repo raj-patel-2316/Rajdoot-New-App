@@ -43,5 +43,7 @@ The app provides a clean user interface that lets users explore static news arti
 ##  How to Run the App
 
 1. Clone this repository:
-   ```bash
-  https://github.com/raj-patel-2316/Rajdoot-New-App
+   
+```bash
+git clone https://github.com/raj-patel-2316/Rajdoot-New-App.git
+  
